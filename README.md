@@ -1,33 +1,33 @@
-# Project
+# Learn Python in a Fun Way with Turtle Graphics and Fractals 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD)
 
-As the maintainer of this project, please make a few updates:
+Welcome to an Introduction to Python with Turtle Graphics and Fractals! In this course, we will introduce you to main concepts of **Computer Programming** using one of the most popular programming languages today - **Python**. You will also learn to make your computer draw nice pictures like the one below:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+<img src="images/KochFlake.PNG" width="50%"/>
 
-## Contributing
+**Computer programming** is a way to tell a computer how to do things. For example, you can ask computer to calculate the product of all numbers from 1 to 10. To do that, you need to express your instructions in a clear way, and in a language understandable to a computer. We will learn the language called **Python**, but there are also other popular languages, such as C#, C++ or JavaScript.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Many of the samples in this course will be using so-called **Turtle graphics**. The main idea is that we can give commands to a simple "virtual robot" called **turtle**, asking it to move forward, or turn left. By doing so, we can draw different things, and immediately see the results of our commands. It is a fun way to learn programming, because you will produce pictures, and not just boring numbers. But do not worry, we will work with numbers as well!
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+In this course we will use a technology called **Jupyter Notebooks**. Notebooks are documents that combine normal text with some computer code that you can **execute**. While you can read notebooks here by following the links, to execute them you need some programming environment. There are several ways you can execute notebooks and follow this course:
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+* **Install Python and Jupyter on your computer**. It is a good idea to do so if you are serious about learning programming. I typically recommend to start with [miniconda](https://conda.io/en/latest/miniconda.html), but you can also install [Anaconda](https://anaconda.org/), or [official Python distribution](https://www.python.org/downloads/) 
+* Use [GitHub Codespaces](https://github.com/features/codespaces). Currently you need to apply for early access to this technology, which may take time. 
+* Use **Binder** by clicking on the button at the top of this page. Keep in mind that when using Binder all changes you make to notebooks are not saved by default, and the environment tends to expire after some time - thus it is very easy to lose your work.
 
-## Trademarks
+## Content of the Course
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+| Unit | Link |
+|------|------|
+| [Introduction to Programming](english/1_Introduction.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F1_Introduction.ipynb) |
+| [Functions](english/2_Functions.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F2_Functions.ipynb) |
+| [Conditional Operators](english/3_Conditional.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F3_Conditional.ipynb) |
+| [Loops](english/4_Loops.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F4_Loops.ipynb) |
+| [Nested Loops](english/5_NestedLoops.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F5_NestedLoops.ipynb) |
+| [While Loop](english/6_WhileLoop.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F6_WhileLoop.ipynb) |
+| [Recursion and Beauty of Programming](english/7_RecursionAndBeauty.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F7_RecursionAndBeauty.ipynb) | 
+
+## Intro Video
+
+[<img src="https://img.youtube.com/vi/BJ1gAnJiPJo/maxresdefault.jpg" width="50%">](https://youtu.be/BJ1gAnJiPJo)
