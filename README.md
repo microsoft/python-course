@@ -20,13 +20,13 @@ In this course we will use a technology called **Jupyter Notebooks**. Notebooks 
 
 | Unit | Link |
 |------|------|
-| [Introduction to Programming](english/1_Introduction.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F1_Introduction.ipynb) |
-| [Functions](english/2_Functions.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F2_Functions.ipynb) |
-| [Conditional Operators](english/3_Conditional.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F3_Conditional.ipynb) |
-| [Loops](english/4_Loops.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F4_Loops.ipynb) |
-| [Nested Loops](english/5_NestedLoops.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F5_NestedLoops.ipynb) |
-| [While Loop](english/6_WhileLoop.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F6_WhileLoop.ipynb) |
-| [Recursion and Beauty of Programming](english/7_RecursionAndBeauty.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F7_RecursionAndBeauty.ipynb) | 
+| [Introduction to Programming](1_Introduction.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/python-course/HEAD?filepath=1_Introduction.ipynb) |
+| [Functions](2_Functions.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/python-course/HEAD?filepath=2_Functions.ipynb) |
+| [Conditional Operators](3_Conditional.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/python-course/HEAD?filepath=3_Conditional.ipynb) |
+| [Loops](4_Loops.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/python-course/HEAD?filepath=4_Loops.ipynb) |
+| [Nested Loops](5_NestedLoops.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/python-course/HEAD?filepath=5_NestedLoops.ipynb) |
+| [While Loop](6_WhileLoop.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=6_WhileLoop.ipynb) |
+| [Recursion and Beauty of Programming](7_RecursionAndBeauty.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/python-course/HEAD?filepath=7_RecursionAndBeauty.ipynb) | 
 
 ## Intro Video
 
