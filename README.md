@@ -28,7 +28,7 @@ If Python and pip are installed a version number will be displayed, such as *3.8
 
 ### Visual Studio Code
 
-The instructions for this workshop assume you are using [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-49102-chrhar), an open source code editor. You will also need the [Pylance extension](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance&WT.mc_id=academic-49102-chrhar), which will provide additional functionality when writing Python.
+The instructions for this workshop assume you are using [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-50029-jelooper), an open source code editor. You will also need the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter&WT.mc_id=academic-50029-jelooper), which will provide additional functionality when writing Python.
 
 * Use [GitHub Codespaces](https://github.com/features/codespaces). Currently you need to apply for early access to this technology and there may be costs involved in using it, but it works well with Python. 
 * Use **Binder** by clicking on the button at the top of this page. Keep in mind that when using Binder all changes you make to notebooks are not saved by default, and the environment tends to expire after some time - thus it is very easy to lose your work.
